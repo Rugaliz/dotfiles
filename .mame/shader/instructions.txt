@@ -1,0 +1,6 @@
+For CRT Geom Halation:
+glsl_shader_mame0         /home/rugaliz/.mame/shader/CGWG-CRT-geom-halation/Gaussx
+glsl_shader_mame1         /home/rugaliz/.mame/shader/CGWG-CRT-geom-halation/Gaussy
+glsl_shader_mame2         /home/rugaliz/.mame/shader/CGWG-CRT-geom-halation/CRT-geom-halation
+
+
