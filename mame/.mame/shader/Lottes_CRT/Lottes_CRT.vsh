@@ -14,7 +14,7 @@ void main()
 	gl_Position     = ftransform();
 	
 	//Had to move the YUV calculations to the vertex shader for space
-	saturation = 1.1;  // 1.0 is normal saturation. Increase as needed.
+	saturation = 1.0;  // 1.0 is normal saturation. Increase as needed.
 	tint = 0.0;  //0.0 is 0.0 degrees of Tint. Adjust as needed.
 	U = cos(tint*PI/180.0);
 	W = sin(tint*PI/180.0);
