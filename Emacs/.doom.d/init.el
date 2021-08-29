@@ -25,7 +25,7 @@
        ;;ido               ; the other *other* search engine...
        ;;ivy               ; a search engine for love and life
        ;;vertico             ; the search engine of the future
-       ;;(ivy +fonts +childframe)             ; a search engine for love and life
+       (ivy +fonts +childframe)             ; a search engine for love and life
 
        :ui
        ;;deft              ; notational velocity for Emacs
