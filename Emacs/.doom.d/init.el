@@ -189,6 +189,6 @@
        :config
        ;;literate
        (default +bindings +smartparens))
-
+       (set-frame-parameter (selected-frame) 'alpha '(98 . 95))
 
 
