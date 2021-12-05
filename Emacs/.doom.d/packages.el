@@ -51,3 +51,5 @@
 ;; disabled packages
 
 
+;; Install a package named "example" from ELPA, MELPA, or Emacsmirror
+(package! web-mode)
