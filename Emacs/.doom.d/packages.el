@@ -48,8 +48,3 @@
 ;(unpin! pinned-package another-pinned-package)
 ;; ...Or *all* packages (NOT RECOMMENDED; will likely break things)
 ;(unpin! t)
-;; disabled packages
-
-
-;; Install a package named "example" from ELPA, MELPA, or Emacsmirror
-(package! web-mode)
