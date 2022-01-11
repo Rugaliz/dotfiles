@@ -105,6 +105,11 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+export GTK_IM_MODULE=ibus
+export XMODIFIERS=@im=ibus
+export QT_IM_MODULE=ibus
+
 export VISUAL=nvim
 export EDITOR="$VISUAL"
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
