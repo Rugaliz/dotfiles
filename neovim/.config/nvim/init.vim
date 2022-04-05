@@ -1,6 +1,6 @@
 inoremap jk <Esc>
 tnoremap jk <C-\><C-n>
-
+map <C-a> ggVG
 " Use English as default
 set nocompatible            " disable compatibility to old-time vi
 set showmatch               " show matching

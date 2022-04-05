@@ -1,0 +1,39 @@
+{
+    "InternalPDFViewer": {
+        "Embedded": true,
+        "File": "../../MEGA/UA/CV/Moderncv Casual/main_EN.pdf"
+    },
+    "Session": {
+        "Bookmarks": [
+        ],
+        "CurrentFile": "../../MEGA/UA/CV/Moderncv Casual/main_EN.tex",
+        "FileVersion": 1,
+        "Files": [
+            {
+                "Col": 27,
+                "EditorGroup": 0,
+                "FileName": "../../MEGA/UA/Japonês/Apontamentos/main.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 26
+            },
+            {
+                "Col": 25,
+                "EditorGroup": 0,
+                "FileName": "../../MEGA/UA/CV/Moderncv Casual/main.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 35
+            },
+            {
+                "Col": 6,
+                "EditorGroup": 0,
+                "FileName": "../../MEGA/UA/CV/Moderncv Casual/main_EN.tex",
+                "FirstLine": 169,
+                "FoldedLines": "",
+                "Line": 180
+            }
+        ],
+        "MasterFile": ""
+    }
+}

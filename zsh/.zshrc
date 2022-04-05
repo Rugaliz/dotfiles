@@ -80,6 +80,7 @@ plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
 export PATH=$PATH:/home/rugaliz/.local/bin
+export PATH=$PATH:/home/rugaliz/.cargo/bin
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
@@ -96,7 +97,8 @@ export PATH=$PATH:/home/rugaliz/.local/bin
 
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
-
+alias vim="nvim"
+alias svim="sudo -E nvim"
 # Set personal aliases, overriding those provided by oh-my-zsh libs,
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
